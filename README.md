@@ -2,6 +2,7 @@
 ##  Olá, meu nome é Vitória, prazer em tê-lo aqui :) 
 ### Sou estudante e atualmente trabalho como freelancer com Desenvolvimento Web, abrangendo tanto o front como o back-end. 
 ### Estou em busca de uma oportunidade de Estágio, Trainee ou Jr como Desenvolvedora!
+#### Minha expertise principal está no Desenvolvimento Front-End, onde utilizo HTML, CSS, JavaScript, React, Next.js, Tailwind e Bootstrap para criar interfaces interativas e responsivas. Além disso, tenho experiência em back-end com PHP, Node.js, MySQL e Firebase. 
 ### Me chama pra trocar uma idéia :D
 
 <div>
