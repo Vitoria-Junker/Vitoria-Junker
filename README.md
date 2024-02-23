@@ -1,12 +1,13 @@
+
+##  Olá, meu nome é Vitória, prazer em tê-lo aqui :) 
+### Sou estudante e atualmente trabalho como freelancer com Desenvolvimento Web, abrangendo tanto o front como o back-end. 
+### Estou em busca de uma oportunidade de Estágio, Trainee ou Jr como Desenvolvedora!
+### Me chama pra trocar uma idéia :D
+
 <div>
   <a href="https://github.com/Vitoria-Junker">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Junker&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
  <br>
